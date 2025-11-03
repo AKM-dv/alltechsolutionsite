@@ -1,0 +1,14 @@
+# Netlify Redirects for AllTech Solutions
+
+# SPA Fallback - All routes go to index.html
+/*    /index.html   200
+
+# API Proxy (if needed to proxy backend requests)
+# /api/*  https://alltechsolutions.mycartly.in/:splat  200
+
+# Legacy redirects (if any old URLs exist)
+# /old-page  /new-page  301
+
+# Force HTTPS
+# http://sats.mycartly.in/*  https://sats.mycartly.in/:splat  301
+

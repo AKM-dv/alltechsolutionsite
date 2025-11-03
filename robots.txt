@@ -1,0 +1,27 @@
+# robots.txt for AllTech Solutions
+# Generated for SEO optimization
+
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /account/
+Disallow: /checkout/
+Disallow: /order-success/
+Disallow: /cart/
+
+# Disallow API endpoints from crawling
+Disallow: /api/
+
+# Allow important static assets
+Allow: /src/
+Allow: /static/
+
+# Sitemap location
+Sitemap: https://alltechsolutions.mycartly.in/sitemap.xml
+
+# Crawl delay (optional, helps server load)
+Crawl-delay: 1
+
