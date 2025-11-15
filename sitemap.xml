@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://sats.mycartly.in/</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Collection Page -->
+  <url>
+    <loc>https://sats.mycartly.in/collection</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://sats.mycartly.in/about</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://sats.mycartly.in/contact</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Blog List -->
+  <url>
+    <loc>https://sats.mycartly.in/blog</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Categories -->
+  <url>
+    <loc>https://sats.mycartly.in/category/153236520892</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sats.mycartly.in/category/153236540474</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sats.mycartly.in/category/153236512885</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sats.mycartly.in/category/153236504510</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sats.mycartly.in/category/153236590770</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sats.mycartly.in/category/153236554597</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Products -->
+  <url>
+    <loc>https://sats.mycartly.in/product/153236573720250925182307</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sats.mycartly.in/product/153236539320250915202430</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://sats.mycartly.in/blog/what-is-a-snoot-in-photography-and-what-is-it-used-for</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sats.mycartly.in/blog/how-to-care-for-your-power-bank-for-long-lasting-life-performance</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sats.mycartly.in/blog/5-things-to-keep-in-mind-before-buying-a-portable-led-light-online</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

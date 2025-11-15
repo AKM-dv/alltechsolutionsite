@@ -11,6 +11,7 @@ Disallow: /account/
 Disallow: /checkout/
 Disallow: /order-success/
 Disallow: /cart/
+Disallow: /debug/
 
 # Disallow API endpoints from crawling
 Disallow: /api/
@@ -18,6 +19,7 @@ Disallow: /api/
 # Allow important static assets
 Allow: /src/
 Allow: /static/
+Allow: /assets/
 
 # Sitemap location
 Sitemap: https://alltechsolutions.mycartly.in/sitemap.xml
